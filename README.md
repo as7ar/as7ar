@@ -16,7 +16,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/apo2073/apo2073/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/as7ar/as7ar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/as7ar/as7ar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/as7ar/as7ar/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
