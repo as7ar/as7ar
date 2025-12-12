@@ -7,7 +7,7 @@ schedule: # Run automatically every 24 hours
 workflow_dispatch: # Allows manual triggering
 push: # Runs on every push to the main branch
     branches:
-    - main
+    - master
 
 jobs:
 generate:
@@ -18,7 +18,7 @@ generate:
 
     steps:
     - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@2.3.0
         with:
         github_user_name: ${{ github.repository_owner }}
 
