@@ -72,6 +72,14 @@
 
 ###
 
+<h3 align="center">🌐 Languages</h3>
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as7ar&layout=compact&theme=dracula)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/as7ar/as7ar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/as7ar/as7ar/output/pacman-contribution-graph.svg">
