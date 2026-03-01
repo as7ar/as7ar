@@ -40,7 +40,7 @@
 
 ###
 
-<div aligin="center">
+<div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38" alt="arduino logo"  />
   <img width="12" />
@@ -53,7 +53,7 @@
   
 ###
   
-<div aligin="center">
+<div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma logo"  />
   <img width="12" />
