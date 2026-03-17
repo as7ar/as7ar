@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ I'm a Student living in Korea</p>
+<p align="left">✨ I'm a Student living in Korea 🇰🇷</p>
 
 ###
 
